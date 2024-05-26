@@ -108,16 +108,25 @@ body{
 }
 
 #switch{
-  height: auto;
-  width: 45%px;
-  border-radius: 15px;
   background-image: linear-gradient(rgb(220, 219, 219), rgb(190, 189, 189));
   color: rgb(44, 46, 48);
-  margin: 15px;
+  width: 75px;
+  height: 20px;
+  border-radius: 15px;
+  text-align: center;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 .control{
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+footer{
+  margin: 15px;
+  text-align: center;
+  color: rgb(199, 198, 198);
+  font-size: 13px;
 }

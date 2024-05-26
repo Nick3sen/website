@@ -89,7 +89,9 @@ ul.criterialist{
   padding-right: 25px;
 }
 
-
 footer{
-    background-color: blue;
+  margin: 15px;
+  text-align: center;
+  color: rgb(199, 198, 198);
+  font-size: 13px;
 }

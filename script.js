@@ -1,6 +1,9 @@
 var img_array = ['Media/Technicaldrawing-pully.png', 'Media/background.jpg', 'http://placehold.it/100x100/red'];
 var title_array = ['Pully', 'frame', 'mast']
-var para_array = ['Voor de pully gebruikten we één algemeen ontwerp, dit werdt gebruikt voor de aandrijving aan de hand van rubbere bandjes.', 'kaasrand', 'is']
+var para_array = [
+    'Voor de pully gebruikten we één algemeen ontwerp, dit werdt gebruikt voor de aandrijving aan de hand van rubbere bandjes. Dit ontwerp werdt gemaakt in solidworks en uitgewerkt met een 3D printer',
+    'kaasrand',
+    'is']
 i = 0;
 
 function nextFunction() {
