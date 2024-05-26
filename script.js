@@ -31,8 +31,8 @@ function prevFunction() {
     element.innerHTML = para_array[i];
 
     document.getElementById("myImg").src = img_array[i];
-    if (i == img_array.length - 1) {
-        i = -1;
+    if (i < 0) {
+        i = 0;
 
     }
 
