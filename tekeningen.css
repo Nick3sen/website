@@ -82,6 +82,10 @@ body{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 50px;
+  background-color: rgb(220, 219, 219);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-radius: 25px;
 }
 
 .drawing{
@@ -92,16 +96,28 @@ body{
 }
 
 .info{
-  margin: 50px;
-  background-color: rgb(220, 219, 219);
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  border-radius: 25px;
   text-align: center;
-  align-items: center;
-  width: 30%;
+  object-fit: contain;
+  width: 100%;
+  margin-right: 5%;
 }
 
 .header{
   font-size: 24px;
   text-decoration: underline;
+}
+
+#switch{
+  height: auto;
+  width: 45%px;
+  border-radius: 15px;
+  background-image: linear-gradient(rgb(220, 219, 219), rgb(190, 189, 189));
+  color: rgb(44, 46, 48);
+  margin: 15px;
+}
+
+.control{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
