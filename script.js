@@ -1,4 +1,4 @@
-var img_array = ['Boot.jpg', 'background.jpg', 'http://placehold.it/100x100/red'];
+var img_array = ['Media/Boot.jpg', 'Media/background.jpg', 'http://placehold.it/100x100/red'];
 i = 0;
 
 function myFunction() {
