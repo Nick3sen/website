@@ -1,8 +1,8 @@
-var img_array = ['Media/Technicaldrawing-pully.png', 'Media/background.jpg', 'http://placehold.it/100x100/red'];
-var title_array = ['Pully', 'frame', 'mast']
+var img_array = ['Media/Technicaldrawing-pully.png', 'Media/Technicaldrawing-wheenbracket.png', 'http://placehold.it/100x100/red'];
+var title_array = ['Pully', 'Wheelbracket', 'mast']
 var para_array = [
-    'Voor de pully gebruikten we één algemeen ontwerp, dit werdt gebruikt voor de aandrijving aan de hand van rubbere bandjes. Dit ontwerp werdt gemaakt in solidworks en uitgewerkt met een 3D printer',
-    'kaasrand',
+    'Voor de pully gebruikten we één algemeen ontwerp, dit werdt gebruikt voor de aandrijving aan de hand van rubbere bandjes. Dit ontwerp werdt gemaakt in solidworks en uitgewerkt met een 3D printer.',
+    'Deze bracket wordt gebruikt om het wiel, dat het zeil op en neer haalt, op zijn plek te houden. Dit ontwerp werdt gemaakt in solidworks en uitgewerjt met een 3D printer.',
     'is']
 i = 0;
 
