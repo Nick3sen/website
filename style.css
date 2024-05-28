@@ -3,6 +3,7 @@
 }
 
 ul.navi {
+    
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -25,6 +26,10 @@ ul.navi {
 
   li.navi a:hover{
     background-color: rgb(56, 101, 138);
+  }
+
+  li.navi a.active{
+    background-color: rgb(67, 111, 147);
   }
 
   #logo{
@@ -71,6 +76,7 @@ h1{
     text-align: center;
     align-items: center;
     font-weight: 400;
+    box-shadow: 10px 10px 5px black;
 }
 
 .header{
@@ -95,4 +101,10 @@ footer{
   text-align: center;
   color: rgb(199, 198, 198);
   font-size: 13px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
