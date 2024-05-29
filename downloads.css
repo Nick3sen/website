@@ -74,6 +74,10 @@ h1{
   box-shadow: 6px 6px 5px black;
 }
 
+#badge:hover{
+  rotate: 2deg;
+}
+
 .download{
   margin-top: 25px;
 }
