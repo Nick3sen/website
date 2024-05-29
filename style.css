@@ -77,6 +77,10 @@ h1{
     box-shadow: 6px 6px 5px black;
 }
 
+#badge:hover{
+  rotate: 2deg;
+}
+
 .header{
   font-size: 32px;
   text-decoration: underline;
@@ -124,4 +128,8 @@ footer{
   align-items: center;
   font-weight: 400;
   box-shadow: 6px 6px 5px black;
+}
+
+#move:hover{
+  rotate: 2deg;
 }
