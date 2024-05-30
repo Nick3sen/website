@@ -28,6 +28,8 @@ ul.navi {
   li.navi a:hover{
     background-color: rgb(56, 101, 138);
     border-radius: 3px;
+    /* rotate: 2deg; */
+    transform: scale(1.05);
   }
 
   #logo{
@@ -78,7 +80,8 @@ h1{
 }
 
 #badge:hover{
-  rotate: 2deg;
+  /* rotate: 2deg; */
+  transform: scale(1.05);
 }
 
 .header{
@@ -131,5 +134,6 @@ footer{
 }
 
 #move:hover{
-  rotate: 2deg;
+  /* rotate: 2deg; */
+  transform: scale(1.05);
 }
