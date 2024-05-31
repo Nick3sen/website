@@ -148,3 +148,13 @@ footer{
   border-radius: 15px;
   margin-top: 20px;
 }
+
+#socials{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.social{
+  margin: 5px;
+}

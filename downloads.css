@@ -90,3 +90,13 @@ footer{
   color: rgb(199, 198, 198);
   font-size: 13px;
 }
+
+#socials{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.social{
+  margin: 5px;
+}

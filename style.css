@@ -144,3 +144,13 @@ footer{
   margin-top: 30px;
   margin-bottom: 25px;
 }
+
+#socials{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.social{
+  margin: 5px;
+}
