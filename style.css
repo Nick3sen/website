@@ -125,7 +125,7 @@ footer{
   background-color: rgb(220, 219, 219);
   width: 45%;
   border-radius: 25px;
-  height: auto;
+  height: 500px;
   text-align: center;
   align-items: center;
   font-weight: 400;
@@ -135,4 +135,12 @@ footer{
 #move:hover{
   /* rotate: 2deg; */
   transform: scale(1.05);
+}
+
+#videofile{
+  height: auto;
+  width: 35%;
+  border-radius: 15px;
+  margin-top: 30px;
+  margin-bottom: 25px;
 }

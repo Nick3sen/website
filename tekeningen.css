@@ -141,3 +141,10 @@ footer{
   color: rgb(199, 198, 198);
   font-size: 13px;
 }
+
+#videofile{
+  height: auto;
+  width: 35%;
+  border-radius: 15px;
+  margin-top: 20px;
+}
