@@ -57,9 +57,9 @@ h1{
 }
 
 .introduction{
-  margin-left: 10%;
   font-size: 16x;
   width: 80%;
+  margin: 25px;
   margin-bottom: 25px;
 }
 
