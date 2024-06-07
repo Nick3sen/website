@@ -15,15 +15,16 @@ function nextFunction() {
     var element = document.getElementById("myPara");
     element.innerHTML = para_array[i];
 
-    document.getElementById("testvar").innerHTML = i;
-
     document.getElementById("myImg").src = img_array[i];
+    
+    document.getElementById("testvar").innerHTML = i;
 
 }
 
 // previous function
 function prevFunction() {
     if(i > 0) i--;
+
     var element = document.getElementById("myTitle");
     element.innerHTML = title_array[i];
 
