@@ -1,9 +1,10 @@
-var img_array = ['Media/Technicaldrawing-pully.png', 'Media/Technicaldrawing-wheenbracket.png', 'Media/test.jpg'];
-var title_array = ['Pully', 'Wheelbracket', 'test']
+var img_array = ['Media/Technicaldrawing-pully.png', 'Media/Technicaldrawing-wheenbracket.png', 'Media/technicaldrawing-rowwingbracket.png', 'Media/technicaldrawing-touw guider.png'];
+var title_array = ['Pully', 'Wheelbracket', 'Rowwingbracket', 'Touw guider']
 var para_array = [
     'Voor de pully gebruikten we één algemeen ontwerp, dit werdt gebruikt voor de aandrijving aan de hand van rubbere bandjes. Dit ontwerp werdt gemaakt in solidworks en uitgewerkt met een 3D printer.',
     'Deze bracket wordt gebruikt om het wiel, dat het zeil op en neer haalt, op zijn plek te houden. Dit ontwerp werdt gemaakt in solidworks en uitgewerjt met een 3D printer.',
-    'is']
+    'Deze bracket is om de individuele onderdelen van het roeimechanisme op te monteren. Dit werdt gerealiseerd met een 3D printer.',
+    'Dit onderdeel wordt op de mast gemonteerd om de touwen van het zeil in de juiste richting te guiden. Dit onderdeel werdt gerealiseerd met een 3D printer.']
 var i = 0;
 
 // next function
